@@ -1,1 +1,3 @@
-Il media creation tool e la iso viene salvato sotto C:\ESD
+Il media creation tool viene salvato sotto C:\ESD
+La iso sul desktop
+
